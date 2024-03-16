@@ -33,11 +33,12 @@ Hello there! 👋 I'm software engineering student *Currently on vacation from s
 * 👨‍💻 Currently working at [AMZ Digital Agency](https://www.amzmedia.me) <br/>
 * 📚 Study at Kazan National Research Technical University – [KAI](https://kai.ru)
 
+<br />
 
 ```javascript
 import Immanuel from "@foxeian"
 
-export default async function Me() {
+export default function Me() {
 return (
   <Immanuel text={Let's build react tools} />
 )}
