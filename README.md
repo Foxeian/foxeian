@@ -40,7 +40,7 @@ import Immanuel from "@foxeian"
 
 export default function Me() {
 return (
-  <Immanuel text={Let's build react tools} />
+  <Immanuel text={"Let's build react tools"} />
 )}
 ```
 
