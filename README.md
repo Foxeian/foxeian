@@ -32,7 +32,7 @@ Hello there! 👋 I'm software engineering student *Currently on vacation from s
 
 ### 💻 Info
 
-* ⚡ Visit my [Portfolio](http://www.foxeian.ru) <br/>
+* ⚡ Visit my [Portfolio](http://www.lexystudio.com) <br/>
 * 👨‍💻 Currently working at [LEXY Studio](https://www.github.com/lexystudio) <br/>
 * 📚 Study at Kazan National Research Technical University – [KAI](https://kai.ru)
 
@@ -48,6 +48,6 @@ return (
 ```
 
 ### 📬 Contact
-- Website: <a href="https://foxeian.ru/" title="Portfolio">foxeian.ru</a>
+- Website: <a href="https://lexystudio.com" title="Portfolio">lexystudio.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/foxeian/" title="LinkedIn">linkedin.com/in/foxeian/</a>
 - Telegram: <a href="https://t.me/Foxeian" title="Telegram">https://t.me/foxeian</a>
